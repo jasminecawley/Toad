@@ -1,0 +1,46 @@
+/*
+Light Brown: #D6B282
+Dark Brown: #331D00
+Meduim Brown: #805926
+Light Green: #5DA537
+*/
+
+body {
+	background-color: #D6B282;
+}
+
+h1 {
+	font-family: "Time New Roman", serif;
+}
+
+p {
+  font-family: "Lucida Console", "Courier New", monospace;
+}
+
+table, th, td {
+	border: solid;
+	padding-left: 5px;
+	padding-right: 5px;
+	padding-top: 5px;
+	padding-bottom: 5px;
+	border-width: .5px;
+	border-color: #592C0C;
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+ul, li{
+	font-family: "Lucida Console", "Courier New", monospace;
+}
+
+table{
+	margin-bottom:15px;
+}
+
+h1, h2, h3 {
+	color:#592C0C;
+}
+
+th {
+	color:#592C0C;
+	font-family: "Times New Roman", Times, serif;
+}
